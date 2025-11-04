@@ -22,4 +22,7 @@ Turma: **BRSAO194**
 3. Execute um dos programas com o comando:
 
 ```bash
-python nome_do_arquivo.py
+python -m pasta.arquivo.py
+
+EX: python -m atv03.atv03-calculadora-imc.py
+
